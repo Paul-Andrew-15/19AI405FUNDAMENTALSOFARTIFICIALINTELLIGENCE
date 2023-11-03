@@ -104,7 +104,7 @@ F H <BR>
 
 <h3>Output</h3>
 
-![Alt text](o1.png)
+![Alt text](ot1.png)
 <h3>Result:</h3>
 <hr>
 <p>Thus, a Graph was constructed and implementation of Depth First Search for the same graph was done successfully.</p>
