@@ -110,7 +110,7 @@ print(traversedpath)
 3 4 <BR>
 <h3>Output</h3>
 
-![Alt text](image.png)
+![Alt text](ot2.png)
 <h3>Result:</h3>
 <hr>
 <p>Thus,a Graph was constructed and implementation of Breadth First Search for the same graph was done successfully.</p>
