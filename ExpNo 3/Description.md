@@ -218,7 +218,7 @@ G 0 <br>
 <h2> Output</h2>
 <hr>
 
-![Alt text](image.png)
+![Alt text](ot3.png)
 
 <h3>Result</h3>
 Thus the program for implementing Astar search is successfully implemented.
